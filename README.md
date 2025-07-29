@@ -1,6 +1,6 @@
 # DGCN: Diffusion-Enhanced Graph Contrastive Learning with Hierarchical Negative Sampling for Link Prediction
 We provide the code (in pytorch) and datasets for our paper: "Diffusion-Enhanced Graph Contrastive Learning with Hierarchical Negative Sampling for Link Prediction" (DGCN).
-
+![model](framework.png)
 ## 1. Desription
 The repository is organised as follows:
 
