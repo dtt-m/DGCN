@@ -19,4 +19,3 @@ For reproducibility, please run these commands regarding to specific dataset:
 
 - python main_cond.py --dataset=Cora[model_cond.py](../DGCN-main/model/model_cond.py)/Citeseer/Actor
 
-## 4. Citation
