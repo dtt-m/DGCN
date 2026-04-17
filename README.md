@@ -13,7 +13,7 @@ The repository is organised as follows:
 To install required packages
 - pip install -r requirements.txt
 
-## 2. Acknowledgements
+## 3. Acknowledgements
 We are particularly grateful to the authors of DMNS, as parts of our code implementation were derived from their work. We have cited the relevant references in our paper.
 
 
