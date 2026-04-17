@@ -13,8 +13,11 @@ The repository is organised as follows:
 To install required packages
 - pip install -r requirements.txt
 
+## 2. Acknowledgements
+We are particularly grateful to the authors of DMNS, as parts of our code implementation were derived from their work. We have cited the relevant references in our paper.
 
-## 3. Experiments
+
+## 4. Experiments
 For reproducibility, please run these commands regarding to specific dataset:
 
 - python main_cond.py --dataset=Cora[model_cond.py](../DGCN-main/model/model_cond.py)/Citeseer/Actor
